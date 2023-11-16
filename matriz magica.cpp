@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void imprimirMatriz(int matriz[3][3]) 
 {
     for (int i = 0; i < 3; ++i) 
